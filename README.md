@@ -1,13 +1,13 @@
-# 飞书笔记整理 Skill
+# Feishu Note Organizer
 
 把课程录音转写、会议记录、文章、课堂内容或学习资料整理成结构清晰、重点突出、可直接复制到飞书文档的中文笔记。
 
 ## 安装
 
-将整个 `bijizl` 文件夹复制到 Codex skills 目录：
+将整个 `feishu-note-organizer` 文件夹复制到 Codex skills 目录：
 
 ```text
-~/.codex/skills/bijizl/
+~/.codex/skills/feishu-note-organizer/
 ```
 
 重新打开 Codex 会话后即可使用。
@@ -15,7 +15,7 @@
 ## 调用示例
 
 ```text
-使用 $bijizl 整理下面这段课程录音转写：
+使用 $feishu-note-organizer 整理下面这段课程录音转写：
 
 【粘贴原始内容】
 ```
