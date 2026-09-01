@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书笔记整理"
+  short_description: "整理、更新飞书笔记，并制作流程图与复习材料"
+  default_prompt: "请使用 $bijizl 读取或整理指定学习资料，更新为结构清晰的飞书笔记；如涉及飞书原位编辑，请核对目标文档、插入位置、编辑权限与保存结果。"
